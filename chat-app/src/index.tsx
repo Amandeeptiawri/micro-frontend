@@ -1,0 +1,3 @@
+import("./wraper.tsx");
+
+export {};
