@@ -3,7 +3,6 @@ module.exports = {
 name: "mainapp",
 filename: "remoteEntry.js",
 remotes: {
-
     chat: "chat@http://localhost:3010/remoteEntry.js",
     email: "email@http://localhost:3009/remoteEntry.js",
 },
